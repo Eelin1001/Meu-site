@@ -1,1 +1,4 @@
-# Meu-site
+@@ -0,0 +1,3 @@
+{
+    "liveServer.settings.port": 5502
+}
